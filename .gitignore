@@ -1,12 +1,13 @@
 **/*.png
 *.ipynb_checkpoints
-*.ipynb
+/*.ipynb
 # Ignore everything under hxmt_me_l3_products_pipeline/
 HXMT/19_aug_nicer_overlap/*
 HXMT/hxmt_experiment_period_fine_tuning/*
 HXMT/hxmt_me_l3_products_pipeline/*
 HXMT/rerun_bootstrap/*
 HXMT_combine_spectra_check/*
+!HXMT/*.ipynb
 
 hxmt_testing/*
 
@@ -19,6 +20,7 @@ NICER_second_run/batch_0/*
 NICER_second_run/output/*
 NICER_second_run/reduced_output/*
 NICER/spectrum_fitting/share-20250317T062740Z-001.zip
+!NICER_second_run/*.ipynb
 
 swift_monitor/*.lc.gz
 swift_monitor/*.flc
