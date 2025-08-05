@@ -1,0 +1,52 @@
+##Adding Correction					
+## Drop 419600103,403,603,703,803,903,1401,1901,2102,2204 due to low exposure <700sec					
+## Drop 427900201,202 bad in all, data quality bad					
+## 419601603 corrected to 9.79256 based on refined 1e-5 manual search					
+##419601402,1403 dropped <700sec					
+LC_File_Path	Period	Chi-square	Date	freq	PErr
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504279/P0504279001/pipeline_output/P050427900101_LE_lcnet_2-10keV_0.05s.lc	9.79506	10730	20152	102.0922792	3.36E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504279/P0504279001/pipeline_output/P050427900102_LE_lcnet_2-10keV_0.05s.lc	9.79503	10470	20152	102.0925919	0.00004755
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504279/P0504279001/pipeline_output/P050427900103_LE_lcnet_2-10keV_0.05s.lc	9.79499	15840	20153.04139	102.0930088	3.97E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504279/P0504279001/pipeline_output/P050427900104_LE_lcnet_2-10keV_0.05s.lc	9.79502	12000	20153.22361	102.0926961	3.26E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196001/pipeline_output/P050419600101_LE_lcnet_2-10keV_0.05s.lc	9.79482	10210	20154	102.0947807	2.20E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196001/pipeline_output/P050419600102_LE_lcnet_2-10keV_0.05s.lc	9.79473	4372	20154	102.0957188	7.18E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196002/pipeline_output/P050419600201_LE_lcnet_2-10keV_0.05s.lc	9.79438	5297	20155	102.0993672	7.02E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196002/pipeline_output/P050419600202_LE_lcnet_2-10keV_0.05s.lc	9.79446	15670	20155	102.0985333	2.54E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196003/pipeline_output/P050419600301_LE_lcnet_2-10keV_0.05s.lc	9.79432	5916	20156	102.0999926	2.90E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196003/pipeline_output/P050419600302_LE_lcnet_2-10keV_0.05s.lc	9.79444	3173	20156	102.0987417	0.000100526
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196003/pipeline_output/P050419600303_LE_lcnet_2-10keV_0.05s.lc	9.79431	8516	20156	102.1000969	3.95E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196004/pipeline_output/P050419600401_LE_lcnet_2-10keV_0.05s.lc	9.79405	3778	20157	102.1028073	8.40E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196004/pipeline_output/P050419600402_LE_lcnet_2-10keV_0.05s.lc	9.79407	4466	20157	102.1025988	4.53E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196005/pipeline_output/P050419600501_LE_lcnet_2-10keV_0.05s.lc	9.79369	3275	20158	102.1065604	8.35E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196005/pipeline_output/P050419600502_LE_lcnet_2-10keV_0.05s.lc	9.79371	5151	20158	102.1063519	9.22E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196006/pipeline_output/P050419600601_LE_lcnet_2-10keV_0.05s.lc	9.79367	5731	20159	102.106769	5.62E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196006/pipeline_output/P050419600602_LE_lcnet_2-10keV_0.05s.lc	9.7937	3614	20159	102.1064562	9.48E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196007/pipeline_output/P050419600701_LE_lcnet_2-10keV_0.05s.lc	9.79344	4285	20160	102.109167	3.77E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196007/pipeline_output/P050419600702_LE_lcnet_2-10keV_0.05s.lc	9.79351	2194	20161	102.1084371	0.000148231
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196008/pipeline_output/P050419600801_LE_lcnet_2-10keV_0.05s.lc	9.79324	2833	20161	102.1112523	0.000103356
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196008/pipeline_output/P050419600802_LE_lcnet_2-10keV_0.05s.lc	9.79326	3573	20161	102.1110437	7.16E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196009/pipeline_output/P050419600901_LE_lcnet_2-10keV_0.05s.lc	9.79312	3514	20162	102.1125035	0.000047299
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196009/pipeline_output/P050419600902_LE_lcnet_2-10keV_0.05s.lc	9.79313	1995	20163	102.1123992	8.08E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196010/pipeline_output/P050419601001_LE_lcnet_2-10keV_0.05s.lc	9.79288	2667	20165	102.115006	7.47E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196011/pipeline_output/P050419601101_LE_lcnet_2-10keV_0.05s.lc	9.79295	3190	20166	102.1142761	5.10E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196013/pipeline_output/P050419601301_LE_lcnet_2-10keV_0.05s.lc	9.79267	3599	20168	102.1171958	4.53E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196015/pipeline_output/P050419601501_LE_lcnet_2-10keV_0.05s.lc	9.79251	4173	20170	102.1188643	2.70E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196015/pipeline_output/P050419601502_LE_lcnet_2-10keV_0.05s.lc	9.79247	5141	20170	102.1192814	0.000034389
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196016/pipeline_output/P050419601602_LE_lcnet_2-10keV_0.05s.lc	9.79247	1972	20171	102.1192814	9.97E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196016/pipeline_output/P050419601603_LE_lcnet_2-10keV_0.05s.lc	9.79256	1910	20171	102.1183429	0.00024136
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196018/pipeline_output/P050419601801_LE_lcnet_2-10keV_0.05s.lc	9.79245	3237	20174	102.11949	6.83E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196019/pipeline_output/P050419601902_LE_lcnet_2-10keV_0.05s.lc	9.79249	2287	20175	102.1190729	3.54E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196019/pipeline_output/P050419601903_LE_lcnet_2-10keV_0.05s.lc	9.79269	1727	20175	102.1169873	0.000386696
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196020/pipeline_output/P050419602001_LE_lcnet_2-10keV_0.05s.lc	9.79259	2390	20176	102.1180301	6.19E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196020/pipeline_output/P050419602002_LE_lcnet_2-10keV_0.05s.lc	9.79259	3678	20176	102.1180301	2.15E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196021/pipeline_output/P050419602101_LE_lcnet_2-10keV_0.05s.lc	9.79259	4199	20177	102.1180301	1.02E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602201_LE_lcnet_2-10keV_0.05s.lc	9.79263	2262	20179	102.1176129	7.68E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602202_LE_lcnet_2-10keV_0.05s.lc	9.7925	1988	20179	102.1189686	4.18E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602203_LE_lcnet_2-10keV_0.05s.lc	9.79256	5354	20179	102.1183429	2.79E-06
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602205_LE_lcnet_2-10keV_0.05s.lc	9.79234	540.7	20180	102.1206372	0.00013669
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602206_LE_lcnet_2-10keV_0.05s.lc	9.7925	1949	20180	102.1189686	6.00E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602207_LE_lcnet_2-10keV_0.05s.lc	9.7926	2146	20180	102.1179258	1.82E-05
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602208_LE_lcnet_2-10keV_0.05s.lc	9.79249	5660	20180	102.1190729	9.95E-06
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602209_LE_lcnet_2-10keV_0.05s.lc	9.79241	521.1	20180	102.1199072	0.000220914
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602210_LE_lcnet_2-10keV_0.05s.lc	9.79236	845.3	20181	102.1204286	0.000138698
+/home/iist/aniket_data/hxmt_raw_data/decompressed_data//P0504196/P0504196022/pipeline_output/P050419602211_LE_lcnet_2-10keV_0.05s.lc	9.79252	1477	20181	102.11876	0.000102842
